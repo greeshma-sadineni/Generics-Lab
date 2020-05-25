@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Generics\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.exe
+F:\.Net Programs\Lab Generics\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.deps.json
+F:\.Net Programs\Lab Generics\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.runtimeconfig.json
+F:\.Net Programs\Lab Generics\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.runtimeconfig.dev.json
+F:\.Net Programs\Lab Generics\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.dll
+F:\.Net Programs\Lab Generics\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.pdb
+F:\.Net Programs\Lab Generics\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Generics\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Generics\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Generics\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.AssemblyInfo.cs
+F:\.Net Programs\Lab Generics\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.dll
+F:\.Net Programs\Lab Generics\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.pdb
+F:\.Net Programs\Lab Generics\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Generics\Generic Scale\bin\Debug\netcoreapp3.1\Generic Scale.exe
+F:\.Net Programs\Lab Generics\Generic Scale\bin\Debug\netcoreapp3.1\Generic Scale.deps.json
+F:\.Net Programs\Lab Generics\Generic Scale\bin\Debug\netcoreapp3.1\Generic Scale.runtimeconfig.json
+F:\.Net Programs\Lab Generics\Generic Scale\bin\Debug\netcoreapp3.1\Generic Scale.runtimeconfig.dev.json
+F:\.Net Programs\Lab Generics\Generic Scale\bin\Debug\netcoreapp3.1\Generic Scale.dll
+F:\.Net Programs\Lab Generics\Generic Scale\bin\Debug\netcoreapp3.1\Generic Scale.pdb
+F:\.Net Programs\Lab Generics\Generic Scale\obj\Debug\netcoreapp3.1\Generic Scale.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Generics\Generic Scale\obj\Debug\netcoreapp3.1\Generic Scale.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Generics\Generic Scale\obj\Debug\netcoreapp3.1\Generic Scale.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Generics\Generic Scale\obj\Debug\netcoreapp3.1\Generic Scale.AssemblyInfo.cs
+F:\.Net Programs\Lab Generics\Generic Scale\obj\Debug\netcoreapp3.1\Generic Scale.dll
+F:\.Net Programs\Lab Generics\Generic Scale\obj\Debug\netcoreapp3.1\Generic Scale.pdb
+F:\.Net Programs\Lab Generics\Generic Scale\obj\Debug\netcoreapp3.1\Generic Scale.genruntimeconfig.cache
